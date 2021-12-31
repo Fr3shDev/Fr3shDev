@@ -8,7 +8,7 @@ I'm also looking forward to become an open source contributor.
 - 👯 I’m looking to collaborate on projects as a backend developer remotely.
 <!--- 🤔 I’m looking for help with ... --->
 - 💬 Ask me about anything that concerns PHP or Laravel and I'll be happy to help.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+<!--- 📫 How to reach me: ... --->
+<!--- 😄 Pronouns: ... --->
+<!--- ⚡ Fun fact: ... --->
+
