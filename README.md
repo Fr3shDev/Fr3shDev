@@ -11,4 +11,5 @@ I'm also looking forward to become an open source contributor.
 <!--- 📫 How to reach me: ... --->
 <!--- 😄 Pronouns: ... --->
 <!--- ⚡ Fun fact: ... --->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FreshhDevv&theme=dark)](https://git.io/streak-stats)
 
