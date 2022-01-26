@@ -24,7 +24,7 @@ I'm also looking forward to become an open source contributor.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freshhdevv&show_icons=true&locale=en" alt="freshhdevv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshhdevv&" alt="freshhdevv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshhdevv&theme=dark" alt="freshhdevv" /></p>
 
 
 <!--- 📫 How to reach me: ... --->
