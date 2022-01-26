@@ -3,10 +3,6 @@
 I'm Weno Ndum Billy Hans, a backend software developer, currently enrolled at a state university with a software engineering major. I am Passionate about tech, and learning from others too.
 I'm also looking forward to become an open source contributor.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freshhdevv&label=Profile%20views&color=0e75b6&style=flat" alt="freshhdevv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freshhdevv" alt="freshhdevv" /></a> </p>
-
 - 🔭 I’m currently working on my technical skills
 - 🌱 I’ve been learning backend development with PHP/Laravel for a while now and nosql database technologies..
 - 👯 I’m looking to collaborate on projects as a backend developer remotely.
@@ -30,6 +26,10 @@ I'm also looking forward to become an open source contributor.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freshhdevv&theme=dark&show_icons=true&locale=en" alt="freshhdevv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshhdevv&theme=dark" alt="freshhdevv" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=freshhdevv&label=Profile%20views&theme=dark&style=flat" alt="freshhdevv" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freshhdevv" alt="freshhdevv" /></a> </p>
 
 
 <!--- 📫 How to reach me: ... --->
