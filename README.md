@@ -29,7 +29,7 @@ I'm also looking forward to become an open source contributor.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freshhdevv&label=Profile%20views&theme=dark&style=flat" alt="freshhdevv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freshhdevv" alt="freshhdevv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freshhdevv&theme=dark" alt="freshhdevv" /></a> </p>
 
 
 <!--- 📫 How to reach me: ... --->
