@@ -8,7 +8,7 @@ I'm also looking forward to become an open source contributor.
 - 👯 I’m looking to collaborate on projects as a backend developer remotely.
 - 🤔 I’m looking for help with integrating laravel with mongodb and making it work.
 - 💬 Ask me about anything that concerns PHP or Laravel and I'll be happy to help.
-- ⚡ Fun fact: I am hell-bent on skilling up and with time I can learn anything😁.
+- ⚡ Fun fact: I am hell-bent on skilling up and with time I can learn anything.
 
 - 📫 How to reach me **weno.ndum@ubuea.cm**
 
