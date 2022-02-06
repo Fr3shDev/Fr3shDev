@@ -25,7 +25,7 @@ I'm also looking forward to become an open source contributor.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freshhdevv&theme=dark&show_icons=true&locale=en" alt="freshhdevv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshhdevv&theme=dark" alt="freshhdevv" /></p>
+<!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshhdevv&theme=dark" alt="freshhdevv" /></p>--->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freshhdevv&label=Profile%20views&color=0e75b6&style=flat" alt="freshhdevv" /> </p>
 
