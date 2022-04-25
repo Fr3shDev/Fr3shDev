@@ -1,4 +1,4 @@
-### Hi there, I'm Billy Hans 😃
+### Hi there, I'm Billy Hans 
 
 I'm Weno Ndum Billy Hans, a backend software developer, currently enrolled at a state university with a software engineering major. I am Passionate about tech, and learning from others too.
 I'm also looking forward to become an open source contributor.
