@@ -10,7 +10,7 @@ I'm also looking forward to become an open source contributor.
 <!-- - 💬 Ask me about anything that concerns PHP or Laravel and I'll be happy to help.
 - ⚡ Fun fact: I am hell-bent on skilling up and with time I can learn anything✌🏾. -->
 
-<!-- - 📫 How to reach me **weno.ndum@ubuea.cm** --> -->
+<!-- - 📫 How to reach me **weno.ndum@ubuea.cm** --> 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
