@@ -27,7 +27,6 @@ I'm also looking forward to become an open source contributor.
 <div> </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freshhdevv&label=Profile%20views&color=0e75b6&style=flat" alt="freshhdevv" /> </p>
 
 
 
