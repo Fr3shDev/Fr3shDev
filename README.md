@@ -1,7 +1,6 @@
 ### Hi there, I'm Billy Hans 
 
-I'm, a backend software developer, currently enrolled at a state university with a software engineering major. I am Passionate about tech, and learning from others too.
-I'm also looking forward to become an open source contributor.
+I'm, a softwware engineer focused on building value added and scalable solutions with tech.
 
 - 🔭 I’m currently learning mobile development with flutter and firebase.
 - 🌱 I’m a Laravel backend development with PHP/Laravel.
