@@ -5,7 +5,6 @@ I'm, a softwware engineer focused on building value added and scalable solutions
 - 🔭 I’m currently learning mobile development with flutter and firebase.
 - 🌱 I’m a Laravel backend development with PHP/Laravel.
 - 👯 I’m looking to collaborate on projects as a backend developer remotely.
-🤔 I’m looking for help with integrating laravel with mongodb and making it work.
 - 💬 Ask me about anything that concerns PHP or Laravel and I'll be happy to help.
 - ⚡ Fun fact: I am hell-bent on skilling up and with time I can learn anything✌🏾.
 
