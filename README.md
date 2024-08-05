@@ -1,4 +1,4 @@
-### Hi there, I'm Billy Hans
+### Hi there, I'm Billy Hans Weno
 
 I'm a software engineer focused on building value-added and scalable solutions with tech.
 
