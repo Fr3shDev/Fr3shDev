@@ -2,7 +2,7 @@
 
 I'm a software engineer focused on building value-added and scalable solutions.
 
-- 🌱 I’m a backend developer specializing in PHP/Laravel, NodeJs/Express with Typescript.
+- 🌱 I’m a backend engineer specializing in PHP/Laravel, NodeJs/Express with Typescript.
 - 👯 I’m looking to collaborate on projects as a backend developer remotely.
 - 🔭 I’m currently learning mobile development with Flutter and Firebase.
 - 💬 Ask me about anything related to PHP or Laravel, and I'll be happy to help.
