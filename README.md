@@ -9,3 +9,4 @@ I'm a software engineer focused on building value-added and scalable solutions.
 - ⚡ Fun fact: I am hell-bent on skilling up, and with time, I can learn anything ✌🏾.
 
 - 📫 How to reach me: **billyhansweno@gmail.com**
+- 📫 One on one with me: **[billyhansweno@gmail.com](https://calendar.app.google/25VaSAEsasV9cLA5A)**
